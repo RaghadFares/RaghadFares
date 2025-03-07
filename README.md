@@ -16,8 +16,8 @@ I'm an IT student specializing in Data Science and AI, passionate about using ma
 
 ## ⚙️ **Skills & Tools:**
 - **Languages:** Python is what i like the best :)
-- **Libraries:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
-- **Tools:** Git, GitHub, AWS, Docker, Jupyter Notebooks
+- **Libraries:** TensorFlow,Scikit-learn, Pandas, NumPy  
+- **Tools:** Git, GitHub, Jupyter Notebooks
 
 ---
 
