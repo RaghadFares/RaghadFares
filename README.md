@@ -1,7 +1,7 @@
 
 
 # **Raghad Fares Almutairi**  
-**Data Science & AI Innovator | IT Student | Social Impact Advocate**
+**Data Science & AI Innovator | IT Student**
 
 I'm an IT student specializing in Data Science and AI, passionate about using machine learning to solve real-world problems in healthcare, mental health, and productivity.
 
