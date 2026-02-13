@@ -9,7 +9,7 @@ I'm an IT student specializing in Data Science and AI, passionate about using ma
 
 - **Urban Crime Analytics & Hotspot Prediction:** Developed a scalable big data solution using Apache Spark to analyze almost 1 million crime records and predict high-risk zones in Chicago, supporting data-driven public safety strategies and optimized police resource allocation.
 
-- **Predicting Employee Attrition:** Built an ensemble machine learning model (Stacking Classifier with LightGBM + Logistic Regression) to predict employee turnover with 89% accuracy and 0.80 ROC-AUC, enabling proactive retention strategies and reducing organizational costs.
+- **Predicting Employee Attrition:** Built an ensemble machine learning model to predict employee turnover with 89% accuracy and 0.80 ROC-AUC, enabling proactive retention strategies and reducing organizational costs.
 
 - **Liver Disease Prediction:** Developed machine learning models for early detection of liver diseases, improving diagnostic accuracy and patient outcomes.
 
