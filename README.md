@@ -19,7 +19,7 @@ I'm an IT student specializing in Data Science and AI, passionate about using ma
 
 ## ⚙️ **Skills & Tools:**
 
-- **Languages:** Python (my favorite!), Scala  
+- **Languages:** Python (my favorite!), Java, Scala  
 - **Big Data & Distributed Computing:** Apache Spark (RDD, DataFrames, SQL, MLlib)  
 - **Machine Learning:** Scikit-learn, LightGBM, XGBoost, Ensemble Methods (Stacking, Random Forest, Gradient Boosting)  
 - **Data Analysis:** Pandas, NumPy, Feature Engineering, Handling Class Imbalance  
