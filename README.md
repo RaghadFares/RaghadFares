@@ -7,15 +7,15 @@ I'm an IT student specializing in Data Science and AI, passionate about using ma
 
 ## 🌍 **Key Projects:**
 
-- **Cross-Domain Mental Health Detection (NLP):** Investigated whether machine learning classifiers trained on depression tweets can detect suicidal ideation — without ever seeing suicidal content during training. Ran three full experiments comparing TF-IDF, RoBERTa, and MentalBERT embeddings across 6 classifiers each. Key finding: KNN went from the worst-performing classifier with TF-IDF (F1: 0.0009) to the best overall with RoBERTa embeddings (F1: 0.6447, Recall: 0.5429) — demonstrating that feature representation quality is the dominant factor in cross-domain NLP transfer.
+- **Cross-Domain Mental Health Detection (NLP):** Trained classifiers on depression tweets and evaluated them on suicidal ideation data, comparing TF-IDF, RoBERTa, and MentalBERT across 6 classifiers — finding that embedding quality is the dominant factor in cross-domain transfer.
 
-- **Crime Count Forecasting per District (Big Data & Regression):** Built a scalable big data regression pipeline using Apache Spark to forecast crime volume per district across nearly 1 million crime records from Chicago. The model predicts how many crimes a given district will experience in a future time period, enabling proactive resource allocation and data-driven public safety planning.
+- **Crime Count Forecasting per District (Big Data & Regression):** Built a regression pipeline using Apache Spark to forecast crime volume per district across nearly 1 million Chicago crime records, enabling proactive resource allocation and public safety planning.
 
 - **Predicting Employee Attrition:** Built an ensemble machine learning model to predict employee turnover with 89% accuracy and 0.80 ROC-AUC, enabling proactive retention strategies and reducing organizational costs.
 
-- **Liver Disease Prediction:** Developed machine learning models for early detection of liver diseases, improving diagnostic accuracy and patient outcomes.
+- **Liver Disease Prediction:** Developed machine learning models for early detection of liver disease, improving diagnostic accuracy through feature engineering and model comparison across multiple classifiers.
 
-- **Social Media & Mental Health:** Analyzed the impact of social media on mental well-being using data analytics and visualization techniques.
+- **Social Media & Mental Health:** Analyzed the relationship between social media usage and mental well-being using data analytics and visualization, identifying behavioral patterns linked to negative health outcomes.
 
 ---
 
