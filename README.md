@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,ff9eb5,ffb3c6&height=200&section=header&text=Raghad%20Fares%20Almutairi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20AI%20Innovator&descAlignY=58&descColor=ffe0ec)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+I%27m+Raghad;I+love+Building+solutions+that+improve+lives)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+I%27m+Raghad;I+Build+solutions+that+improve+lives)](https://git.io/typing-svg)
 
 ---
 
