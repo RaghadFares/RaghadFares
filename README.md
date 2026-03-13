@@ -24,7 +24,7 @@ I am an IT student specializing in **Data Science and AI**, passionate about usi
 
 ## Skills and Tools
 
-`Python` `Java` `Scala` `Apache Spark` `HuggingFace` `Scikit-Learn` `XGBoost` `LightGBM` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `GitHub` `RoBERTa` `BERT` `TF-IDF`
+`Python` `Java` `Scala` `Apache Spark` `HuggingFace` `Scikit-Learn` `XGBoost` `LightGBM` `Pandas` `NumPy` `Matplotlib` `Seaborn` `RoBERTa` `BERT` `TF-IDF`
 
 ---
 
