@@ -20,5 +20,5 @@ Beyond engineering, I've organized data competitions with 100+ participants acro
 
 ---
 
-Open to research collaborations and internships.  
+Open to collaborations and internships.  
 [Raghadfarres@gmail.com](mailto:Raghadfarres@gmail.com)
