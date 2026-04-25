@@ -1,37 +1,72 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,ff9eb5,ffb3c6&height=200&section=header&text=Raghad%20Fares%20Almutairi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20AI%20Innovator&descAlignY=58&descColor=ffe0ec)
+# Raghad Fares Almutairi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+I%27m+Raghad;I+Build+solutions+that+improve+lives)](https://git.io/typing-svg)
-
----
-
-## About Me
-
-I am an IT student specializing in **Data Science and AI**, passionate about using machine learning to solve real-world problems in healthcare, mental health, public safety, and workforce analytics.
+**Data Science & AI · Computer Vision · NLP · Predictive Analytics**
 
 ---
 
-## Key Projects
+## About
 
-| Project | Tech | Highlight |
-|---------|------|-----------|
-| **Cross-Domain Mental Health Detection** | NLP, RoBERTa, MentalBERT, TF-IDF | Embedding quality is the dominant factor in cross-domain transfer |
-| **Crime Count Forecasting** | Apache Spark, Regression | Forecasted crime volume across 1M Chicago records |
-| **Employee Attrition Prediction** | XGBoost, LightGBM, Stacking | 89% accuracy, 0.80 ROC-AUC |
-| **Liver Disease Prediction** | Scikit-learn, Decision Tree | Early detection via feature engineering |
-| **Social Media and Mental Health** | Pandas, VADER, Matplotlib | Identified behavioral patterns linked to mental health outcomes |
+IT student specializing in Data Science and Artificial Intelligence, focused on building systems that solve real problems — in healthcare, public safety, sports analytics, and mental health. I care about work that has a measurable impact beyond the model benchmark.
 
 ---
 
-## Skills and Tools
+## Graduation Project — Haddaf
 
-`Python` `Java` `Scala` `Apache Spark` `HuggingFace` `Scikit-Learn` `XGBoost` `LightGBM` `Pandas` `NumPy` `Matplotlib` `Seaborn` `RoBERTa` `BERT` `TF-IDF`
+**AI-Powered Football Talent Discovery & Tracking**
+
+Haddaf is an intelligent player evaluation system built for the Saudi football ecosystem. Coaches, players, and scouts submit match video clips — the engine does the rest.
+
+**What the AI engine does:**
+1. Tracks a selected player throughout the video using computer vision
+2. Extracts body pose frame by frame via pose estimation
+3. Classifies actions — dribble, pass, shoot, header, tackle
+4. Returns structured action counts back to the mobile application
+
+The engine is the core of the system. Without it, the app cannot analyze or evaluate player performance.
+
+| Component | Repository |
+|-----------|-----------|
+| AI Engine (this repo) | Computer vision · pose estimation · action classification |
+| Mobile Application | [2025_GP_Group17](https://github.com/Leen0th/2025_GP_Group17) |
+
+**Stack:** Python · Computer Vision · Pose Estimation · Action Recognition · Deep Learning
 
 ---
 
-## Future Vision
+## Projects
 
-I aim to leverage data science and AI to tackle critical challenges in **public safety, healthcare, workforce optimization, and human well-being**. Whether predicting crime patterns, preventing employee turnover, detecting diseases early, or understanding mental health through language - I am driven to create data-driven solutions that protect and improve lives.
+| Project | Stack | Result |
+|---------|-------|--------|
+| **Cross-Domain Mental Health Detection** | RoBERTa · MentalBERT · TF-IDF | Embedding quality is the dominant factor in cross-domain transfer |
+| **Crime Count Forecasting** | Apache Spark · Regression | Forecasted crime volume across 1M+ Chicago records |
+| **Employee Attrition Prediction** | XGBoost · LightGBM · Stacking | 89% accuracy · 0.80 ROC-AUC |
+| **Liver Disease Prediction** | Scikit-learn · Decision Tree | Early detection via feature engineering |
+| **Social Media & Mental Health** | Pandas · VADER · Matplotlib | Behavioral patterns linked to mental health outcomes |
 
-Lets connect to collaborate and create positive change!
+---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,ff9eb5,ffb3c6&height=120&section=footer)
+## Skills
+
+**Languages**
+`Python` `Java` `Scala`
+
+**ML & AI**
+`Scikit-learn` `XGBoost` `LightGBM` `HuggingFace` `RoBERTa` `BERT`
+
+**Data & NLP**
+`Apache Spark` `Pandas` `NumPy` `TF-IDF` `VADER`
+
+**Visualization**
+`Matplotlib` `Seaborn`
+
+---
+
+## Focus Areas
+
+Public safety · Healthcare · Workforce optimization · Sports analytics · Mental health
+
+I build data-driven systems that protect and improve lives — whether predicting crime patterns, detecting disease early, preventing employee turnover, understanding mental health through language, or recognizing football actions from video.
+
+---
+
+*Open to collaboration on applied AI research and real-world ML systems.*
