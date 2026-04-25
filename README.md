@@ -22,7 +22,7 @@ Haddaf is an intelligent player evaluation system built for the Saudi football e
 3. Classifies actions — dribble, pass, shoot, header, tackle
 4. Returns structured action counts back to the mobile application
 
-The engine is the core of the system. Without it, the app cannot analyze or evaluate player performance.
+
 
 | Component | Repository |
 |-----------|-----------|
