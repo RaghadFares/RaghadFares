@@ -26,7 +26,7 @@ Haddaf is an intelligent player evaluation system built for the Saudi football e
 
 | Component | Repository |
 |-----------|-----------|
-| AI Engine (this repo) | Computer vision · pose estimation · action classification |
+| AI Engine (this repo) | (https://github.com/RaghadFares/haddaf) |
 | Mobile Application | [2025_GP_Group17](https://github.com/Leen0th/2025_GP_Group17) |
 
 **Stack:** Python · Computer Vision · Pose Estimation · Action Recognition · Deep Learning
