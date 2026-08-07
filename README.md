@@ -1,6 +1,6 @@
 # Raghad Fares Almutairi
 
-** King Saud University · Riyadh, Saudi Arabia**
+**King Saud University · Riyadh, Saudi Arabia**
 
 
 Data Science & AI graduate with hands-on experience building real systems across **agentic AI, NLP, computer vision, and big data** — applied to problems that improve people's lives in healthcare, public safety, sports, and mental health.
