@@ -40,16 +40,4 @@ My graduation project: an **AI-powered football talent discovery system**. The e
 
 ---
 
-###  Selected Repositories
-
-| Project | Focus | Stack |
-|---|---|---|
-| [haddaf](https://github.com/RaghadFares/haddaf) | Football action recognition | YOLO-Pose · XGBoost |
-| [Cross-domain-NLP](https://github.com/RaghadFares/Cross-domain-NLP) | Mental health detection | RoBERTa · MentalBERT |
-| [Chicago-Crime-Forecaster](https://github.com/RaghadFares/Chicago-Crime-Forecaster) | Crime forecasting | Apache Spark · Scala |
-| [Employee-Attrition-Prediction](https://github.com/RaghadFares/Employee-Attrition-Prediction) | Attrition classification | LightGBM · Stacking |
-| [Social-Media-Effects-on-Mental-Health](https://github.com/RaghadFares/Social-Media-Effects-on-Mental-Health) | Survey study | XGBoost · VADER |
-
----
-
  **Open to collaborations and opportunities** — [Raghadfarres@gmail.com](mailto:Raghadfarres@gmail.com)
