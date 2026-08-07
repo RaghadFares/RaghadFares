@@ -5,7 +5,7 @@
 
 Data Science & AI graduate with hands-on experience building real systems across **agentic AI, NLP, computer vision, and big data** — applied to problems that improve people's lives in healthcare, public safety, sports, and mental health.
 
-
+---
 
 ### Highlights
 
