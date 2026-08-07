@@ -1,11 +1,6 @@
 # Raghad Fares Almutairi
 
 **Data Science & AI Graduate · King Saud University · Riyadh, Saudi Arabia**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-raghadfares.github.io-3b82f6?style=flat-square)](https://raghadfares.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghad_Fares-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghad-fares-almutairi)
-[![Email](https://img.shields.io/badge/Email-Raghadfarres@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Raghadfarres@gmail.com)
-
 ---
 
 Data Science & AI graduate with hands-on experience building real systems across **agentic AI, NLP, computer vision, and big data** — applied to problems that improve people's lives in healthcare, public safety, sports, and mental health.
