@@ -10,9 +10,9 @@
 
 Data Science & AI graduate with hands-on experience building real systems across **agentic AI, NLP, computer vision, and big data** — applied to problems that improve people's lives in healthcare, public safety, sports, and mental health.
 
-I work across the full ML lifecycle, from data pipelines and model training to deployment. At the **Saudi Water Authority**, I helped automate a manual daily analysis process — cutting it from hours of work to minutes and reducing operational costs by orders of magnitude through agentic AI.
 
-### 🏆 Highlights
+
+### Highlights
 
 - **4× first-place winner** — including the atomcamp × Saudi Digital Academy **Agentic AI Hackathon**, where I built *Wasl (وصل)*, a multi-agent government-service complaint triage system using CrewAI, LangGraph, and Tavily.
 - **First student to win across three tracks in a single event** at KSU's IT Fair — Software Engineering, Web Technology, and Data Science.
@@ -27,11 +27,11 @@ My graduation project: an **AI-powered football talent discovery system**. The e
 **Stack:** YOLOv8-Pose · ByteTrack · XGBoost · OpenCV
 **Details:** ~1,800 manually annotated images · 11,155 frames cleaned · classifier on 17 normalized skeletal keypoints
 
-➡️ [github.com/RaghadFares/haddaf](https://github.com/RaghadFares/haddaf)
+ [github.com/RaghadFares/haddaf](https://github.com/RaghadFares/haddaf)
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Agentic AI & ML** — CrewAI · LangGraph · Scikit-learn · XGBoost · LightGBM · Stacking Ensembles
 
@@ -45,7 +45,7 @@ My graduation project: an **AI-powered football talent discovery system**. The e
 
 ---
 
-### 📌 Selected Repositories
+###  Selected Repositories
 
 | Project | Focus | Stack |
 |---|---|---|
@@ -57,4 +57,4 @@ My graduation project: an **AI-powered football talent discovery system**. The e
 
 ---
 
-📫 **Open to collaborations and opportunities** — [Raghadfarres@gmail.com](mailto:Raghadfarres@gmail.com)
+ **Open to collaborations and opportunities** — [Raghadfarres@gmail.com](mailto:Raghadfarres@gmail.com)
